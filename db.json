@@ -1,0 +1,283 @@
+{
+  "questions": [
+    {
+      "question": "First Question",
+      "likes": 36,
+      "answers": [
+        "answer 1",
+        "answer 2",
+        "answer 3",
+        "answer 4"
+      ]
+    },
+    {
+      "question": "Second Question",
+      "likes": 125,
+      "answers": [
+        "answer 1",
+        "answer 2",
+        "answer 3"
+      ]
+    },
+    {
+      "question": "Third Question",
+      "likes": 666,
+      "answers": [
+        "answer 1",
+        "answer 2",
+        "answer 3",
+        "answer 4",
+        "answer 5"
+      ]
+    },
+    {
+      "question": "Fifth Question",
+      "likes": 423,
+      "answers": [
+        "answer 1",
+        "answer 2",
+        "answer 3",
+        "answer 4",
+        "answer 5"
+      ]
+    },
+    {
+      "question": "First Question",
+      "likes": 36,
+      "answers": [
+        "answer 1",
+        "answer 2",
+        "answer 3",
+        "answer 4"
+      ]
+    },
+    {
+      "question": "Second Question",
+      "likes": 125,
+      "answers": [
+        "answer 1",
+        "answer 2",
+        "answer 3"
+      ]
+    },
+    {
+      "question": "Third Question",
+      "likes": 666,
+      "answers": [
+        "answer 1",
+        "answer 2",
+        "answer 3",
+        "answer 4",
+        "answer 5"
+      ]
+    },
+    {
+      "question": "Fifth Question",
+      "likes": 423,
+      "answers": [
+        "answer 1",
+        "answer 2",
+        "answer 3",
+        "answer 4",
+        "answer 5"
+      ]
+    },
+    {
+      "question": "First Question",
+      "likes": 36,
+      "answers": [
+        "answer 1",
+        "answer 2",
+        "answer 3",
+        "answer 4"
+      ]
+    },
+    {
+      "question": "Second Question",
+      "likes": 125,
+      "answers": [
+        "answer 1",
+        "answer 2",
+        "answer 3"
+      ]
+    },
+    {
+      "question": "Third Question",
+      "likes": 666,
+      "answers": [
+        "answer 1",
+        "answer 2",
+        "answer 3",
+        "answer 4",
+        "answer 5"
+      ]
+    },
+    {
+      "question": "Fifth Question",
+      "likes": 423,
+      "answers": [
+        "answer 1",
+        "answer 2",
+        "answer 3",
+        "answer 4",
+        "answer 5"
+      ]
+    },
+    {
+      "question": "First Question",
+      "likes": 36,
+      "answers": [
+        "answer 1",
+        "answer 2",
+        "answer 3",
+        "answer 4"
+      ]
+    },
+    {
+      "question": "Second Question",
+      "likes": 125,
+      "answers": [
+        "answer 1",
+        "answer 2",
+        "answer 3"
+      ]
+    },
+    {
+      "question": "Third Question",
+      "likes": 666,
+      "answers": [
+        "answer 1",
+        "answer 2",
+        "answer 3",
+        "answer 4",
+        "answer 5"
+      ]
+    },
+    {
+      "question": "Fifth Question",
+      "likes": 423,
+      "answers": [
+        "answer 1",
+        "answer 2",
+        "answer 3",
+        "answer 4",
+        "answer 5"
+      ]
+    },
+    {
+      "question": "First Question",
+      "likes": 36,
+      "answers": [
+        "answer 1",
+        "answer 2",
+        "answer 3",
+        "answer 4"
+      ]
+    },
+    {
+      "question": "Second Question",
+      "likes": 125,
+      "answers": [
+        "answer 1",
+        "answer 2",
+        "answer 3"
+      ]
+    },
+    {
+      "question": "Third Question",
+      "likes": 666,
+      "answers": [
+        "answer 1",
+        "answer 2",
+        "answer 3",
+        "answer 4",
+        "answer 5"
+      ]
+    },
+    {
+      "question": "Fifth Question",
+      "likes": 423,
+      "answers": [
+        "answer 1",
+        "answer 2",
+        "answer 3",
+        "answer 4",
+        "answer 5"
+      ]
+    },
+    {
+      "question": "First Question",
+      "likes": 36,
+      "answers": [
+        "answer 1",
+        "answer 2",
+        "answer 3",
+        "answer 4"
+      ]
+    },
+    {
+      "question": "Second Question",
+      "likes": 125,
+      "answers": [
+        "answer 1",
+        "answer 2",
+        "answer 3"
+      ]
+    },
+    {
+      "question": "Third Question",
+      "likes": 666,
+      "answers": [
+        "answer 1",
+        "answer 2",
+        "answer 3",
+        "answer 4",
+        "answer 5"
+      ]
+    },
+    {
+      "question": "Fifth Question",
+      "likes": 423,
+      "answers": [
+        "answer 1",
+        "answer 2",
+        "answer 3",
+        "answer 4",
+        "answer 5"
+      ]
+    }
+  ],
+  "people": [
+    {
+      "name": "John Doe",
+      "rating": 1
+    },
+    {
+      "name": "Jane Doe",
+      "rating": 2
+    },
+    {
+      "name": "Mad Max",
+      "rating": 42
+    },
+    {
+      "name": "John Wick",
+      "rating": 24
+    }
+  ],
+  "admin": {
+    "name": "Admin 123",
+    "email": "Admin@123.com",
+    "password": "password",
+    "image": "https://i.pinimg.com/originals/73/16/f5/7316f550de9ca0045e3d8d98a5bb5e44.png"
+  },
+  "users": [
+    {
+      "id": "f2807050-7dce-4977-a7ef-26202a6fb728",
+      "firstName": "tarik",
+      "lastName": "Delalic",
+      "email": "tarik@dad.co",
+      "password": "tarrar"
+    }
+  ]
+}

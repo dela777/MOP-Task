@@ -1,0 +1,59 @@
+.card {
+  width: 50%;
+  height: 100%;
+  border-radius: 15px;
+  margin-top: 10px;
+  box-shadow: 4px 3px 8px 0px rgb(200 152 44 / 22%);
+  transition-duration: 0.3s;
+}
+.card:hover {
+  transform: translateY(-1px) scale(1.01);
+  box-shadow: 4px 3px 11px 6px rgb(200 152 44 / 46%);
+}
+.imageSection {
+  height: 40%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.image {
+  height: 100%;
+  width: 130px;
+  border-radius: 50%;
+  border: 4px solid #2323;
+  transition-duration: 0.3s;
+}
+.image:hover {
+  transform: scale(1.1);
+}
+
+.info {
+  height: 20%;
+  width: 100%;
+  margin-top: 1%;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.changeInputs {
+  display: flex;
+  justify-content: center;
+}
+.changeEmail {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+}
+.changeName {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+}
+input {
+  height: 35px;
+  text-align: center;
+  outline: none;
+  border-radius: 5px;
+  border: 1px solid dodgerblue;
+}
